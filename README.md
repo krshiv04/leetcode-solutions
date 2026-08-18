@@ -7,11 +7,13 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/krshiv04/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0260-single-number-iii) |
 ## Math
 |  |
 | ------- |
