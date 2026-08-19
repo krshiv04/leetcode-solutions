@@ -12,6 +12,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/krshiv04/leetcode-solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0275-h-index-ii) |
+| [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,8 +49,21 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/krshiv04/leetcode-solutions/tree/master/0274-h-index) |
+| [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/krshiv04/leetcode-solutions/tree/master/0274-h-index) |
+## Greedy
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
