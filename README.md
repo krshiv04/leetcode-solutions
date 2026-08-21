@@ -17,6 +17,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0274-h-index](https://github.com/krshiv04/leetcode-solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/krshiv04/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 ## Bit Manipulation
 |  |
@@ -94,4 +95,12 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
