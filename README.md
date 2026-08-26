@@ -122,4 +122,8 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/krshiv04/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
