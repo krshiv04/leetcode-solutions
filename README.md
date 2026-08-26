@@ -131,5 +131,6 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [1148-article-views-i](https://github.com/krshiv04/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/krshiv04/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/krshiv04/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/krshiv04/leetcode-solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/krshiv04/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
