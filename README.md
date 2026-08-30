@@ -16,6 +16,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0136-single-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krshiv04/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -65,12 +67,14 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0015-3sum](https://github.com/krshiv04/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/krshiv04/leetcode-solutions/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/krshiv04/leetcode-solutions/tree/master/0274-h-index) |
 | [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/krshiv04/leetcode-solutions/tree/master/0274-h-index) |
 ## Greedy
 |  |
@@ -124,6 +128,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Database
 |  |
@@ -137,4 +142,8 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [1693-daily-leads-and-partners](https://github.com/krshiv04/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/krshiv04/leetcode-solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/krshiv04/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
