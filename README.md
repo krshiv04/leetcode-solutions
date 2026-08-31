@@ -98,6 +98,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0015-3sum](https://github.com/krshiv04/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/krshiv04/leetcode-solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krshiv04/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/krshiv04/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
@@ -154,6 +155,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/krshiv04/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krshiv04/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
