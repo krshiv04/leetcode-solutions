@@ -43,6 +43,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/krshiv04/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krshiv04/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/krshiv04/leetcode-solutions/tree/master/0415-add-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/krshiv04/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -133,6 +134,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0054-spiral-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/krshiv04/leetcode-solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 ## Divide and Conquer
@@ -161,6 +163,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0125-valid-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/krshiv04/leetcode-solutions/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/krshiv04/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krshiv04/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/krshiv04/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
