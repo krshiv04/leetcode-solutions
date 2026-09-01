@@ -77,6 +77,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0274-h-index](https://github.com/krshiv04/leetcode-solutions/tree/master/0274-h-index) |
 | [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1859-sorting-the-sentence](https://github.com/krshiv04/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/krshiv04/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -163,6 +164,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [1108-defanging-an-ip-address](https://github.com/krshiv04/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krshiv04/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/krshiv04/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/krshiv04/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Bubble Sort
 |  |
 | ------- |
