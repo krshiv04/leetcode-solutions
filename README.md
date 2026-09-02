@@ -38,6 +38,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/krshiv04/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/krshiv04/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/krshiv04/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -55,6 +56,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/krshiv04/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
@@ -163,6 +165,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/krshiv04/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0409-longest-palindrome) |
