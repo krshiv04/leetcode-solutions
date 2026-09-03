@@ -157,6 +157,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/krshiv04/leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/krshiv04/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/krshiv04/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/krshiv04/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/krshiv04/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/krshiv04/leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/krshiv04/leetcode-solutions/tree/master/1729-find-followers-count) |
