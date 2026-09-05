@@ -27,6 +27,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0885-spiral-matrix-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [2965-find-missing-and-repeated-values](https://github.com/krshiv04/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3904-smallest-stable-index-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -200,4 +201,8 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/krshiv04/leetcode-solutions/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
