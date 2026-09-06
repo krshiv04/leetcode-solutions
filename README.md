@@ -26,6 +26,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0867-transpose-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/krshiv04/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3904-smallest-stable-index-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
@@ -189,6 +190,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [1451-rearrange-words-in-a-sentence](https://github.com/krshiv04/leetcode-solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krshiv04/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/krshiv04/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/krshiv04/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Bubble Sort
 |  |
