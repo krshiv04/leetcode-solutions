@@ -124,6 +124,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/krshiv04/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Stack
 |  |
 | ------- |
@@ -190,6 +191,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0125-valid-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/krshiv04/leetcode-solutions/tree/master/0415-add-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/krshiv04/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/krshiv04/leetcode-solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krshiv04/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
