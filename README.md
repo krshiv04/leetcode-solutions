@@ -43,6 +43,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0012-integer-to-roman](https://github.com/krshiv04/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/krshiv04/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/krshiv04/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/krshiv04/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/krshiv04/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/krshiv04/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krshiv04/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -210,4 +212,8 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/krshiv04/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
