@@ -53,6 +53,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [2235-add-two-integers](https://github.com/krshiv04/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/krshiv04/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3783-mirror-distance-of-an-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3870-count-commas-in-range](https://github.com/krshiv04/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
