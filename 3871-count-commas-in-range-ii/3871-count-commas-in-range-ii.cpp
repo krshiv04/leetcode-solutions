@@ -4,7 +4,7 @@ public:
         if(n<1000) return 0;
         long long start = 1000, ans=0;
 
-        for(int i=1; start<=n; i++)
+        for(int i=1; i<=5; i++)
         {   
             long long end = start*1000-1;
             if(n<=end)
@@ -12,7 +12,6 @@ public:
                 ans+=(n-start+1)*i;
                 break;
             }
-
             else
                 ans+=(end-start+1)*i;
             start*=1000;
