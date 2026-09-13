@@ -5,8 +5,8 @@ public:
         if (s.size() < t.size())
             return "";
 
-        vector<int> freq(128);
-        vector<int> curr(128);
+        unordered_map<char, int> freq;
+        unordered_map<char, int> curr;
 
         for (char c : t)
             freq[c]++;
@@ -16,7 +16,7 @@ public:
 
         // Calculate the length
         while (r < s.size()) {
-            if(freq[s[r]]>0)
+            if(freq.count(s[r]))
             {
                 curr[s[r]]++;
 
@@ -34,7 +34,7 @@ public:
                         bestL = l;
                     }
 
-                    if(freq[s[l]]>0)
+                    if(freq.count(s[l]))
                     {   
                         if(curr[s[l]]<=freq[s[l]])
                         count--;
