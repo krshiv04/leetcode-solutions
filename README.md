@@ -67,6 +67,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0003-longest-substring-without-repeating-characters](https://github.com/krshiv04/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/krshiv04/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/krshiv04/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -191,6 +192,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0012-integer-to-roman](https://github.com/krshiv04/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krshiv04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0076-minimum-window-substring](https://github.com/krshiv04/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/krshiv04/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -210,6 +212,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krshiv04/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/krshiv04/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 ## Number Theory
 |  |
 | ------- |
