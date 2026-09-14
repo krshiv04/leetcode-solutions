@@ -29,6 +29,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2942-find-words-containing-character](https://github.com/krshiv04/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/krshiv04/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3904-smallest-stable-index-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
@@ -214,6 +215,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [1859-sorting-the-sentence](https://github.com/krshiv04/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/krshiv04/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [2942-find-words-containing-character](https://github.com/krshiv04/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Bubble Sort
 |  |
 | ------- |
