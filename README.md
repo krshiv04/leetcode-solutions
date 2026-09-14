@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0015-3sum](https://github.com/krshiv04/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/krshiv04/leetcode-solutions/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/krshiv04/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/krshiv04/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -78,6 +79,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/krshiv04/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/krshiv04/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
