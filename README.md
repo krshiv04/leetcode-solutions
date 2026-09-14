@@ -50,6 +50,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0326-power-of-three](https://github.com/krshiv04/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krshiv04/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/krshiv04/leetcode-solutions/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/krshiv04/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/krshiv04/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3783-mirror-distance-of-an-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -61,6 +62,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0231-power-of-two](https://github.com/krshiv04/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/krshiv04/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krshiv04/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +130,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/krshiv04/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0509-fibonacci-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Stack
 |  |
@@ -243,4 +246,8 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krshiv04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
