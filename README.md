@@ -27,6 +27,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0867-transpose-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/krshiv04/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3904-smallest-stable-index-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -87,6 +88,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0240-search-a-2d-matrix-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0275-h-index-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/krshiv04/leetcode-solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1859-sorting-the-sentence](https://github.com/krshiv04/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/krshiv04/leetcode-solutions/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting Sort
 |  |
