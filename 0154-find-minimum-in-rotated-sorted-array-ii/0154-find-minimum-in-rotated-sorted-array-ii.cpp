@@ -8,6 +8,6 @@ public:
             if(nums[mid]>nums[e]) s=mid+1;
             else if(nums[mid]<nums[e]) e=mid;
             else e--;
-       }return nums[mid];
+       }return nums[s];
     }
 };
