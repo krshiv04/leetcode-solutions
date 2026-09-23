@@ -149,6 +149,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/krshiv04/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -219,6 +220,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0008-string-to-integer-atoi](https://github.com/krshiv04/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/krshiv04/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krshiv04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/krshiv04/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/krshiv04/leetcode-solutions/tree/master/0115-distinct-subsequences) |
@@ -297,5 +299,10 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/krshiv04/leetcode-solutions/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
