@@ -13,6 +13,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0035-search-insert-position](https://github.com/krshiv04/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/krshiv04/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/krshiv04/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
@@ -109,6 +110,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0015-3sum](https://github.com/krshiv04/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/krshiv04/leetcode-solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/krshiv04/leetcode-solutions/tree/master/0274-h-index) |
@@ -302,6 +304,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0022-generate-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/krshiv04/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/krshiv04/leetcode-solutions/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
