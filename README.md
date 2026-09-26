@@ -35,6 +35,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0885-spiral-matrix-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0912-sort-an-array](https://github.com/krshiv04/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/krshiv04/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2942-find-words-containing-character](https://github.com/krshiv04/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -65,6 +66,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0342-power-of-four](https://github.com/krshiv04/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/krshiv04/leetcode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/krshiv04/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/krshiv04/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/krshiv04/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3783-mirror-distance-of-an-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -77,6 +79,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0326-power-of-three](https://github.com/krshiv04/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krshiv04/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/krshiv04/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +188,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0415-add-strings](https://github.com/krshiv04/leetcode-solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/krshiv04/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -310,4 +314,8 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/krshiv04/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
