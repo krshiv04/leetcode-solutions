@@ -34,6 +34,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0867-transpose-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0912-sort-an-array](https://github.com/krshiv04/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/krshiv04/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krshiv04/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -107,6 +108,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krshiv04/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/krshiv04/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krshiv04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
