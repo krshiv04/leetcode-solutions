@@ -73,6 +73,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [3783-mirror-distance-of-an-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/krshiv04/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3959-check-good-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -191,6 +192,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0867-transpose-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krshiv04/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3959-check-good-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
