@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool validDigit(int n, int x) {
-
         int ans=0;
         bool found=false;
         while(n>=10)
@@ -13,6 +12,6 @@ public:
         }
 
         if(found && n!=x) return true;
-        else return false;
+        return false;
     }
 };
