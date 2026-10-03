@@ -73,6 +73,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [3783-mirror-distance-of-an-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/krshiv04/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3908-valid-digit-number](https://github.com/krshiv04/leetcode-solutions/tree/master/3908-valid-digit-number) |
 | [3959-check-good-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Recursion
 |  |
