@@ -1,7 +1,6 @@
 class Solution {
 public:
-    void rotate(vector<vector<int>>& matrix) {
-        
+    void rotate(vector<vector<int>>& matrix) {        
         int n=matrix.size();
         // Transpose
         for(int i=0; i<n-1; i++)
