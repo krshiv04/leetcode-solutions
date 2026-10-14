@@ -63,6 +63,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/krshiv04/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/krshiv04/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/krshiv04/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/krshiv04/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -95,6 +96,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/krshiv04/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krshiv04/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -160,6 +162,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krshiv04/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/krshiv04/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -330,4 +333,8 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krshiv04/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
