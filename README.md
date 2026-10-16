@@ -242,6 +242,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krshiv04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/krshiv04/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/krshiv04/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/krshiv04/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0125-valid-palindrome) |
