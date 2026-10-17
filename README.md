@@ -95,6 +95,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0012-integer-to-roman](https://github.com/krshiv04/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/krshiv04/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
@@ -161,6 +162,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0031-next-permutation](https://github.com/krshiv04/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krshiv04/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/krshiv04/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -337,5 +339,10 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
