@@ -164,6 +164,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0015-3sum](https://github.com/krshiv04/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/krshiv04/leetcode-solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krshiv04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/krshiv04/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -351,6 +352,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
