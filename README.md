@@ -90,6 +90,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0206-reverse-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/krshiv04/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/krshiv04/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krshiv04/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -172,6 +173,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krshiv04/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/krshiv04/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -186,6 +188,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -355,5 +358,6 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
