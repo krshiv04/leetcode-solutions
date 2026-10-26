@@ -26,7 +26,6 @@ public:
             lp=l;
             l=l->next;
         }
-        
         // Reverse The List
         ListNode* prev=lp, * nxt=NULL,* curr=l;
 
@@ -46,11 +45,8 @@ public:
             l->next=rn;
             return head;
         }
-        else if(left==1 && right>1)
-        {
-            l->next=rn;
-            return prev;
-        }
-        return head;
+        
+        l->next=rn;
+        return prev;
     }
 };
