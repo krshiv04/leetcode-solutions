@@ -104,6 +104,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/krshiv04/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
@@ -173,6 +174,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krshiv04/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -353,6 +355,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0202-happy-number) |
 ## Linked List
 |  |
@@ -363,6 +366,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
