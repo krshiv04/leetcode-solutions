@@ -74,6 +74,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0326-power-of-three](https://github.com/krshiv04/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krshiv04/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/krshiv04/leetcode-solutions/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/krshiv04/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -195,6 +196,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -372,5 +374,6 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0142-linked-list-cycle-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
