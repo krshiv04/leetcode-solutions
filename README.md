@@ -57,6 +57,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0260-single-number-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/krshiv04/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/krshiv04/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/krshiv04/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krshiv04/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/krshiv04/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/krshiv04/leetcode-solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0509-fibonacci-number) |
