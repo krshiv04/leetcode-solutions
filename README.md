@@ -187,6 +187,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/krshiv04/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -382,4 +383,5 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
