@@ -141,6 +141,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0015-3sum](https://github.com/krshiv04/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/krshiv04/leetcode-solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/krshiv04/leetcode-solutions/tree/master/0274-h-index) |
@@ -182,6 +183,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0125-valid-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krshiv04/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -232,6 +234,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krshiv04/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/krshiv04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/krshiv04/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -334,6 +337,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/krshiv04/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -379,6 +383,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0092-reverse-linked-list-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/krshiv04/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
