@@ -44,11 +44,21 @@ public:
         tailcopy=headcopy;
         temp=head;
 
+        unordered_map<Node*, Node*> m;
         while(temp)
         {
-            tailcopy->random=find(head,headcopy,temp->random);
+            m[temp]=tailcopy;
             tailcopy=tailcopy->next;
             temp=temp->next;
-        } return headcopy;
+        } 
+        tailcopy=headcopy;
+        temp=head;
+        while(temp)
+        {
+            tailcopy->random=m[temp->random];
+            tailcopy=tailcopy->next;
+            temp=temp->next;
+        }
+        return headcopy;
     }
 };
