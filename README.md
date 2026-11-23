@@ -162,6 +162,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krshiv04/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1029-two-city-scheduling](https://github.com/krshiv04/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 ## Hungarian Algorithm
 |  |
@@ -206,6 +207,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krshiv04/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -280,6 +282,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0125-valid-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/krshiv04/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/krshiv04/leetcode-solutions/tree/master/0415-add-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krshiv04/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/krshiv04/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/krshiv04/leetcode-solutions/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -364,6 +367,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0020-valid-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krshiv04/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Queue
 |  |
 | ------- |
