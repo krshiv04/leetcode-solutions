@@ -202,6 +202,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
@@ -270,6 +271,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0008-string-to-integer-atoi](https://github.com/krshiv04/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/krshiv04/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krshiv04/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krshiv04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/krshiv04/leetcode-solutions/tree/master/0058-length-of-last-word) |
@@ -360,6 +362,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Queue
 |  |
