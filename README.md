@@ -33,6 +33,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0274-h-index](https://github.com/krshiv04/leetcode-solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/krshiv04/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krshiv04/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/krshiv04/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
@@ -208,12 +209,14 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/krshiv04/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krshiv04/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Matrix
 |  |
 | ------- |
