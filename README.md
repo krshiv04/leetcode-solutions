@@ -21,6 +21,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0059-spiral-matrix-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/krshiv04/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/krshiv04/leetcode-solutions/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/krshiv04/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/krshiv04/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krshiv04/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -207,6 +208,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | ------- |
 | [0020-valid-parentheses](https://github.com/krshiv04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/krshiv04/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -216,6 +218,7 @@ My LeetCode solutions and DSA practice in C++, SQL.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krshiv04/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/krshiv04/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Matrix
 |  |
@@ -405,4 +408,8 @@ My LeetCode solutions and DSA practice in C++, SQL.
 | [0445-add-two-numbers-ii](https://github.com/krshiv04/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/krshiv04/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/krshiv04/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
